@@ -18,7 +18,15 @@ The portfolio also describes my internship experience at Zigzag Space Architectu
 
 ## Technologies and Tools
 
-- HTML
+- HTML5: The core markup language for structuring your web pages
+- CSS (Cascading Style Sheets): Used for styling, layout, and visual design
+- Image Assets:
+   - Personal photo
+   - Browser tab icon
+   - Project preview thumbnails
+   - Contact/connection section banner
+- Document Assets:
+   - Downloadable resume
 
 
 ## View the Website
