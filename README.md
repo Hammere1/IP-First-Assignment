@@ -31,7 +31,7 @@ The portfolio also describes my internship experience at Zigzag Space Architectu
 
 ## View the Website
 
-This is a static website and does not require a build step or package installation. Open `index.html` in a web browser to view it. Use a local static server if you want to preview it through an HTTP address.
+This is a static website and does not require a build step or package installation. Open `index.html` in a web browser to view it. 
 
 ## Repository Contents
 
