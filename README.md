@@ -6,7 +6,7 @@ A personal portfolio website introducing Hammere Shimelse, a Software Engineerin
 
 - **`index.html`** — Main portfolio page with an introduction, skills, featured projects, education, and contact details.
 - **`projects.html`** — A fuller overview of projects and experience.
-
+-**`thank you.html`** 
 ## Featured Work
 
 - **Digital Cafeteria System** — A C++ and MySQL project focused on cafeteria records and operations.
